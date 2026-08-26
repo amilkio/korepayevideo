@@ -1,2 +1,2 @@
 # korepayevideo
-regarde des vidéos et être payé directement sur ton compte 
+regarde des vidéos et tu es payé
